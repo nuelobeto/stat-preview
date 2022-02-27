@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-built-with-html-sass-and-flexbox-AGYYbgj-m)
+- Live Site URL: [live site URL](https://nuelobeto.github.io/stat-preview/)
 
 ## My process
 
